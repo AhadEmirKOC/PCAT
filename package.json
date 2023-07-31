@@ -1,0 +1,27 @@
+{
+  "name": "pcat-project",
+  "version": "1.0.0",
+  "description": "\"# PCAT\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahad Emir KOÇ",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xXrovs/PCAT.git"
+  },
+  "keywords": [
+    "photo",
+    "app",
+    "camera"
+  ],
+  "bugs": {
+    "url": "https://github.com/xXrovs/PCAT/issues"
+  },
+  "homepage": "https://github.com/xXrovs/PCAT#readme",
+  "devDependencies": {
+    "prettier": "3.0.0"
+  }
+}
